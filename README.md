@@ -33,10 +33,10 @@ JSON
 
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=DASHBOARDSRV\\SQLEXPRESS;Database=WORKERA;Integrated Security=True;trustServerCertificate=True;"
+    "DefaultConnection": "tu-conexion-sql"
   },
   "WorkeraApi": {
-    "BaseUrl": "https://workera.com/apiClient/v1/"
+    "BaseUrl": "https:tu-api.com"
   }
 }
 🔄 Lógica de Sincronización
